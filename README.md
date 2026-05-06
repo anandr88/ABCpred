@@ -18,7 +18,7 @@ The dataset was originally developed for the identification and prediction of li
 
 ### Reference
 
-### Saha S, Raghava GP. Prediction of continuous B-cell epitopes in an antigen using recurrent neural network. Proteins. 2006 Oct 1;65(1):40-8. doi: 10.1002/prot.21078. PMID: 16894596. href="https://onlinelibrary.wiley.com/doi/10.1002/prot.21078"
+### Saha S, Raghava GP. Prediction of continuous B-cell epitopes in an antigen using recurrent neural network. Proteins. 2006 Oct 1;65(1):40-8. doi: 10.1002/prot.21078. PMID: 16894596. https://onlinelibrary.wiley.com/doi/10.1002/prot.21078
 ---
 
 ## Dataset Description

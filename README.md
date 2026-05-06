@@ -110,7 +110,3 @@ Saha S, Raghava GP. Prediction of continuous B-cell epitopes in an antigen using
 This dataset is shared for academic and research purposes only. Please cite the original publication when using this resource.
 
 ---
-
-## Contact
-
-For questions related to the dataset, methodology, or reproducibility, please open an issue in this repository.

@@ -14,6 +14,11 @@ The dataset was originally developed for the identification and prediction of li
 
 ---
 
+## Citation
+
+Saha S, Raghava GP. Prediction of continuous B-cell epitopes in an antigen using recurrent neural network. Proteins. 2006 Oct 1;65(1):40-8. doi: 10.1002/prot.21078. PMID: 16894596.
+---
+
 ## Dataset Description
 
 The dataset consists of experimentally validated B-cell epitopes and negative peptide samples.
@@ -79,13 +84,7 @@ This dataset can be used for:
 - Feature engineering on peptide sequences
 - Comparative studies with modern protein language models
 
----
 
-## Citation
-
-If you use this dataset in your research, please cite the following paper:
-
-Saha S, Raghava GP. Prediction of continuous B-cell epitopes in an antigen using recurrent neural network. Proteins. 2006 Oct 1;65(1):40-8. doi: 10.1002/prot.21078. PMID: 16894596.
 
 ### BibTeX
 

@@ -63,20 +63,6 @@ The best performance was achieved with:
 
 ---
 
-## Repository Contents
-
-```bash
-.
-├── positive_epitopes.csv        # Positive B-cell epitopes
-├── negative_epitopes.csv        # Negative peptide samples
-├── combined_dataset.csv         # Combined benchmark dataset
-├── README.md                    # Repository documentation
-```
-
-*(File names can be modified according to your repository structure.)*
-
----
-
 ## Applications
 
 This dataset can be used for:
